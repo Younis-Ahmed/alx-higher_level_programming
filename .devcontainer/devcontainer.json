@@ -37,7 +37,8 @@
 				"ms-python.pylint",
 				"ms-python.python",
 				"vscode-icons-team.vscode-icons",
-				"johnpapa.winteriscoming"
+				"johnpapa.winteriscoming",
+				"ms-azuretools.vscode-docker"
 			]
 		}
 	}
