@@ -38,7 +38,8 @@
 				"ms-python.python",
 				"vscode-icons-team.vscode-icons",
 				"johnpapa.winteriscoming",
-				"ms-azuretools.vscode-docker"
+				"ms-azuretools.vscode-docker",
+				"nataliefruitema.modern-purple-theme"
 			]
 		}
 	}
