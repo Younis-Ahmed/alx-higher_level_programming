@@ -1,19 +1,8 @@
 #!/usr/bin/python3
-"""
-This module provides a function to print a matrix of integers.
-"""
-
-
-def print_matrix_integer(matrix):
-    """
-    Prints a matrix of integers.
-
-    Args:
-        matrix (list): The matrix to be printed.
-    """
-    for _, row in enumerate(matrix):
-        for j, value in enumerate(row):
+def print_matrix_integer(matrix=[[]]):
+    for i in range(len(matrix)):
+        for j in range(len(matrix[i])):
             if j != 0:
                 print(" ", end='')
-            print(f"{value}", end='')
+            print("{:d}".format(matrix[i][j]), end='')
         print('')
