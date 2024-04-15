@@ -3,7 +3,14 @@
 
 
 class BaseGeometry:
-    """Reprsent base geometry."""
+    """Reprsent base geometry.
+    Attributes:
+        area (self): Not yet implemented.
+
+    Methods:
+        area(self): Not yet implemented.
+        integer_validator(self, name, value): Validate an integer parameter.
+    """
 
     def area(self):
         """Not yet implemented."""
