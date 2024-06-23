@@ -1,0 +1,6 @@
+autopep8==2.0.4
+greenlet==2.0.2
+pycodestyle==2.11.0
+SQLAlchemy==2.0.20
+tomli==2.0.1
+typing_extensions==4.7.1
